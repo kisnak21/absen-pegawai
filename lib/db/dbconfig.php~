@@ -1,0 +1,9 @@
+<?php 
+    
+    $dbhost = "localhost";
+    $dbuser = "u6932642_absensiswa";
+    $dbpwd = "Fl6319821980";
+    $dbname = "u6932642_absensiswa";
+
+    $conn = new mysqli($dbhost, $dbuser, $dbpwd, $dbname);
+ ?>
